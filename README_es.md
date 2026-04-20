@@ -4,7 +4,7 @@
   <img src="images/gentefit.png" alt="Vista general de GenteFit" width="350">
 </p>
 
-GenteFit es una aplicación de escritorio desarrollada en **C# (.NET / WinForms)** como parte de la asignatura  
+GenteFit es una aplicación de escritorio desarrollada en **C# (.NET / WPF)** como parte de la asignatura  
 **“Técnicas de persistencia de datos con .NET y programas ERP”** en la **Universitat Oberta de Catalunya (UOC)**.
 
 Se trata de una aplicación de gestión de gimnasio diseñada para apoyar las operaciones diarias del centro, como la gestión de usuarios, programación de actividades, asignación de salas y reservas de clientes.
