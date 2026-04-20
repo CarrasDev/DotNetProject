@@ -4,7 +4,7 @@
   <img src="images/gentefit.png" alt="GenteFit overview" width="350">
 </p>
 
-GenteFit is a desktop application developed in **C# (.NET / WinForms)** as part of the academic course  
+GenteFit is a desktop application developed in **C# (.NET / WPF)** as part of the academic course  
 **“Técnicas de persistencia de datos con .NET y programas ERP”** at the **Universitat Oberta de Catalunya (UOC)**.
 
 It is a gym management application designed to support daily operations such as user management, activity scheduling, room assignment, and client reservations.
